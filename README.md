@@ -37,11 +37,5 @@ Passionate about transforming raw data into actionable insights using analytics,
 
 ---
 
-## *GitHub Stats*
-![Sathiyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathiyanuc&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathiyanuc&layout=compact)
-
----
-
 “Data is the new oil. But it’s valuable only when refined.”  
 Let's turn data into decisions!
