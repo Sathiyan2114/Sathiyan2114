@@ -1,6 +1,6 @@
 # Hi there, I'm Sathiyan!  
 
-*Aspiring Data Analyst | Python & SQL Enthusiast | Power BI Developer*  
+## *Aspiring Data Analyst | Python & SQL Enthusiast | Power BI Developer*  
 Passionate about transforming raw data into actionable insights using analytics, storytelling, and visualizations. I’m currently upskilling through real-world projects, internships, and certifications while actively applying for roles in data analysis and business intelligence.
 
 ---
